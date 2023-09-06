@@ -1,6 +1,22 @@
 # 💫 About Me:
-Hello, my name is Jon. I am a passionate student with a strong interest in blockchain, programming, cryptography, and data analysis. Currently, I am focusing on expanding my expertise in Python through advanced PCPP1 certification. Additionally, I am in the final stages of completing my degree in Cross-Platform Application Development at Medac, where I have gained valuable knowledge and skills in developing applications that work seamlessly across multiple platforms.<br><br>Alongside my studies, I am actively engaged in exciting projects at 42 Malaga, with a specific focus on cybersecurity. This experience allows me to explore and apply my technical skills in real-world scenarios, further honing my expertise in the field.<br><br>I find great satisfaction in delving into complex problem-solving tasks, leveraging my programming and analytical abilities to tackle challenges in the ever-evolving world of technology. I am driven by a constant desire to learn, adapt, and stay at the forefront of emerging trends in the industry.<br><br>With a solid foundation in programming and a keen interest in blockchain, cryptography, and data analysis, I am excited to embark on a journey that will enable me to make meaningful contributions to the world of technology and cybersecurity.
+Allow me to introduce myself: I'm Jhonatan, although everyone calls me Jon. I try to become a dedicated and results-oriented software developer with a passion for tackling complex challenges in the dynamic landscape of technology. Jon is driven by a relentless work ethic and an insatiable curiosity, making every day an opportunity for growth and innovation.
 
+
+## A Multifaceted Expertise
+
+My journey into the world of technology has cultivated a profound interest in blockchain, programming, cryptography, data analysis, and the intricacies of industry 4.0. My diverse skill set spans these cutting-edge domains, a testament to my relentless commitment to mastery. I am perpetually inspired to transcend the boundaries of the digital realm.
+
+## Collaborative Spirit
+
+I thrive in collaborative environments and boast a proven track record of seamlessly integrating with teammates. My competitive nature fuels my pursuit of excellence in every project, while my helpful disposition ensures that I am ever-ready to extend a hand to colleagues in need. I firmly adhere to the belief that "If you teach, you will learn twice," underscoring my dedication to personal growth and the nurturing of others within our professional community.
+
+## Building the Future
+
+In this era where technology propels progress, I am a forward-thinking individual who envisions every line of code as an opportunity to shape the future. My fervor for innovation and unyielding commitment to hard work render me a valuable asset in any tech-driven endeavor.
+
+Whether you are exploring the nuances of blockchain, seeking innovative solutions in data analysis, or diving deep into the intricacies of cryptography, I am the professional who leaves no stone unturned in the pursuit of excellence in these domains. My dedication extends beyond personal growth, as I am committed to fostering the growth of our collective technological community.
+
+With a steadfast commitment to both individual and communal advancement, I am a formidable presence in the ever-evolving world of technology.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/onItB) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/onItD) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/onItf) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/onIti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/onItL) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@onItM) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/onItP) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/onItU) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/onItR) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/onItS) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@onItT) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/onItTW) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/onItTWT) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@onItY) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/onItCDP) 
@@ -18,9 +34,6 @@ Hello, my name is Jon. I am a passionate student with a strong interest in block
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=jonko-u&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -28,4 +41,3 @@ Hello, my name is Jon. I am a passionate student with a strong interest in block
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Buy me a coffe Jonko-u) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/P U) [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/Pa U) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/KoFiU) 
 
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
